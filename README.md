@@ -1,2 +1,3 @@
-# Morfologia Matemática (Dilatação) em C++
-Algoritmo de Dilatação Morfologia Matemática, desenvolvido em C++, o presente codigo faz o calculo da dilatação de duas matrizes de n pixels pretos.
+# Mathematical Morphology Dilation in C++
+Mathematical Morphology Dilation Algorithm, developed in C++, this code calculates the dilation of two matrices of n black pixels.
+See more: 
